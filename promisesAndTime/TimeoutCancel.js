@@ -13,7 +13,6 @@ var cancellable = function(fn, args, t) {
         clearTimeout(timeoutId);
     };
 
- 
 };
 
 /**
